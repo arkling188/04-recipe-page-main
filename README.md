@@ -1,4 +1,4 @@
-# Frontend Mentor - 食谱页面解决方案
+﻿# Frontend Mentor - 食谱页面解决方案
 
 这是我完成的 [Frontend Mentor Recipe page 挑战](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)。
 
@@ -143,4 +143,6 @@ content + padding + border
 
 ## 作者
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- arkling
+
+
