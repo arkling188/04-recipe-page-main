@@ -2,6 +2,16 @@
 
 这是我完成的 [Frontend Mentor Recipe page 挑战](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)。
 
+## 设计稿
+
+### 桌面版
+
+![食谱页面桌面版设计稿](./design/desktop-design.jpg)
+
+### 在线访问
+
+[查看在线页面](https://arkling188.github.io/04-recipe-page-main/)
+
 ## 概览
 
 这个页面是一个完整的食谱详情页，包含菜品图片、标题简介、准备时间、食材列表、制作步骤和营养信息表格。
